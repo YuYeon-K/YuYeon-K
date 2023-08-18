@@ -3,8 +3,8 @@
 ### I'm dedicated to the fields of machine learning and artificial intelligence, engaging with their complexities and advancements to create a meaningful influence.
 
 ---
-##Skills & Experience
-- 👨🏻‍💻 Work: Previous software engineer intern @ <a href="https://xpertvr.ca/%22%3EXpertVR</a>
+## Skills & Experience
+- 👨🏻‍💻 Experience: InspireHER Niagara Website Developer
 - 💻 Languages / Framework: 'C#' 'Python' 'HTML/CSS' 'javascript' 'React'
 - ⚙️ Technologies / Infra: Linux Git Unity AWS Microsoft Azure Docker Postman Kubernetes Bash CI/CD MySQL
 - 💬 Let's chat about: AI/ML, AR/VR Development, Algorithms
