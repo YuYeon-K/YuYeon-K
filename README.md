@@ -14,5 +14,5 @@
 ## Contact Me!
 - 📧 Send me an email: yuyeon0809@gmail.com
 - 🔗 Connect with me on <a href="www.linkedin.com/in/yuyeon"> LinkedIn </a>
-- 🏠 Visit my <a href="https://donghwui.com/%22%3E>Personal Website </a> to learn more!
+- 🏠 Visit my <a href="https://donghwui.com/%22%3E"> Personal Website </a> to learn more!
 
