@@ -6,9 +6,9 @@
 ## Skills & Experience
 - 👨🏻‍💻 Experience: InspireHER Niagara Website Developer
 - 💻 Languages / Framework: `C#` `Python` `HTML/CSS` `javascript` `React`
-- ⚙️ Technologies / Infra: Linux Git Unity AWS Microsoft Azure Docker Postman Kubernetes Bash CI/CD MySQL
+- ⚙️ Technologies / Infra: React, Next.Js
 - 💬 Let's chat about: AI/ML, AR/VR Development, Algorithms
-- 📚 Relevant Courses: Inspirit AI Scholars Program, TKS, Introduction to Computer Science 12, Computer Engineering 12
+- 📚 Relevant Courses: Introduction to Computer Science 12, Computer Engineering 12
 
 ---
 ## Contact Me!
