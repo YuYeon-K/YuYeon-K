@@ -13,5 +13,5 @@
 ## Contact Me!
 - 📧 Send me an email: y55kim@uwaterloo.ca
 - 🔗 Connect with me on <a href="www.linkedin.com/in/yuyeon"> LinkedIn </a>
-- 🏠 Visit my <a href="https://donghwui.com/%22%3E"> Personal Website </a> to learn more!
+- 🏠 Visit my <a href="https://donghwui.com"> Personal Website </a> to learn more!
 
