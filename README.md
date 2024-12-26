@@ -1,6 +1,9 @@
 # Hey there! I'm Yuyeon 👋
-### I am currently studying Software Engineering @ University of Waterloo!
-### I'm dedicated to the fields of computer vision and artificial intelligence, engaging with their complexities and advancements to create a meaningful influence.
+
+I'm a first year **Software Engineering** student at the **University of Waterloo**, open to \
+**2025** SWE internship opportunities 🌱 \
+\
+I'm dedicated to the fields of computer vision and artificial intelligence, engaging with their complexities and advancements to create a meaningful influence!
 
 ---
 ## Skills & Experience
