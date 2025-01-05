@@ -16,7 +16,7 @@ I'm dedicated to the fields of computer vision and artificial intelligence, enga
 ---
 
 ## Contact Me!
-- 📧 **Send me an email:** [y55kim@uwaterloo.ca](mailto:y55kim@uwaterloo.ca)
+- 📧 **Send me an email: [y55kim@uwaterloo.ca](mailto:y55kim@uwaterloo.ca)**
 - 🔗 **Connect with me on [LinkedIn](https://www.linkedin.com/in/yuyeon)**
-- 🏠 **Visit my [Personal Website]([https://add](https://yuyeon.netlify.app/)) to learn more!**
+- 🏠 **Visit my [Personal Website](https://yuyeon.netlify.app/) to learn more!**
 
